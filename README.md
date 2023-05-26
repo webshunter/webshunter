@@ -4,6 +4,7 @@
 - mys skill now is php,  javscript, nodejs and express for website
 - and apache cordova in mobiile app
 - and then electron from desktop app
+- [notes](https://github.com/webshunter/note/tree/main)
 
 <!---
 webshunter/webshunter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
