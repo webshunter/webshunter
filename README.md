@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @webshunter
+- 👋 Hi, I’m @webshunter || Gugus Darmayanto
 - 👀 I’m programmer on validatasolusi
 - i am interest in javascript programming
 - Programming languages that I am proficient in: JavaScript, PHP, and Dart.
