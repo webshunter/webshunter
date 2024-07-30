@@ -5,6 +5,7 @@
 - Frameworks that I am proficient in for website development:
   - Node.js with Express
   - Node.js with React or Next.js (for front-end development)
+  - React Native for mobile develepment
   - Laravel
   - CodeIgniter
   - Flutter (although Flutter is more commonly used for mobile app development, it can be used for web development as well)
